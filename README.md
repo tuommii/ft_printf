@@ -1,5 +1,7 @@
 
 # ft_printf - copy of printf
+<img src="https://github.com/tuommii/ft_printf/blob/master/printf.png" width="300">
+
 
 My own version of libc's printf. Challenge was that you could only use these functions:
 * write
